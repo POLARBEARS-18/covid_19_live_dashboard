@@ -1,1 +1,1 @@
-# covid_19_live_dashboard
+# mern_clone_sns
