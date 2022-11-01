@@ -2,7 +2,7 @@ import { FC } from 'react';
 
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import { css } from '@emotion/react';
-import { Home } from 'components/Home';
+import { Home } from 'covid19/components/Home';
 
 const App: FC = () => (
   <div>
